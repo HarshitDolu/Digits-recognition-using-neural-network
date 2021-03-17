@@ -7,7 +7,9 @@ purpose: learning Opencv<br>
 Requirements: <br> 
 opencv-python==4.5.1.48, scikit-learn==0.24.1, tensorflow==2.0.0, keras 2.1.0<br>
 
-
+ <img src="https://github.com/HarshitDolu/Face-Recognition-Attendance-System/blob/main/Screenshot%20(386).png" width="900">
+ 
+ 
 
 
 1. It has 10,000+ image dataset.<br>
@@ -16,4 +18,5 @@ opencv-python==4.5.1.48, scikit-learn==0.24.1, tensorflow==2.0.0, keras 2.1.0<br
 4. data augmentation : image rotation, translation, mirroring.<br>
 5. used Lenet- 5 neural network model.<br>
 6. saved the model in file for testing purpose.
-7.  
+<br>
+ <img src="https://github.com/HarshitDolu/Face-Recognition-Attendance-System/blob/main/Screenshot%20(386).png" width="900">
