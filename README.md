@@ -7,7 +7,7 @@ purpose: learning Opencv<br>
 Requirements: <br> 
 opencv-python==4.5.1.48, scikit-learn==0.24.1, tensorflow==2.0.0, keras 2.1.0<br>
 
- <img src="https://github.com/HarshitDolu/Face-Recognition-Attendance-System/blob/main/Screenshot%20(386).png" width="900">
+ <img src="https://github.com/HarshitDolu/Digits-recognition-using-neural-network/blob/main/concept%20behind.jpeg" width="900">
  
  
 
