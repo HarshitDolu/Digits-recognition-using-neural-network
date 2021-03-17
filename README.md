@@ -19,4 +19,4 @@ opencv-python==4.5.1.48, scikit-learn==0.24.1, tensorflow==2.0.0, keras 2.1.0<br
 5. used Lenet- 5 neural network model.<br>
 6. saved the model in file for testing purpose.
 <br>
- <img src="https://github.com/HarshitDolu/Face-Recognition-Attendance-System/blob/main/Screenshot%20(386).png" width="900">
+ <img src="https://github.com/HarshitDolu/Digits-recognition-using-neural-network/blob/main/demo.png" width="900">
